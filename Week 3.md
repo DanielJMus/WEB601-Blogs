@@ -5,6 +5,7 @@ This week we are working through the HTML Codecademy course that covers both HTM
 We have also began discussing javascript, Ali covered Javascript Operators which allow for conditionals to be created in code, these operators include things such as:
 
 | Operator | Usage |
+| -- | -- |
 | \|\| | OR Operator (if x === true \|\| y === true) |
 | && | AND Operator (if x === true && y === true) |
 | ! | NOT Operator (if !x) |
