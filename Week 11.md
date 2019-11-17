@@ -1,6 +1,6 @@
 # Week 11
 
-This week we have come back from our term break, we mostly just focused on getting our Milestone 2 work completed as that is due very soon. Other than that we also did some Pair Programming, which is where two people sit at a work station, and one will program what the other person says. Pair programming is beneficial because it allows one person to teach the other, teaching being a good way to solidify ones understanding of a topic because they will have to articulate it well enough that the other person can understand what they should be doing, and why they are doing it.
+This week we have come back from our term break, we mostly just focused on getting our Milestone 2 work completed as that is due very soon, luckily Ali has allowed that I hand mine in a few days later than the due date due to my laptop dying and having to be replaced over the break. Other than that we also did some Pair Programming, which is where two people sit at a work station, and one will program what the other person says. Pair programming is beneficial because it allows one person to teach the other, teaching being a good way to solidify ones understanding of a topic because they will have to articulate it well enough that the other person can understand what they should be doing, and why they are doing it.
 
 I would say that personally I program better alone than when I am working with another person, but I can definitely see the benefits of pair programming and how it can be useful for people to learn and be good at.
 
